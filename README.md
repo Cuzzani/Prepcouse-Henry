@@ -1,2 +1,2 @@
 # Prepcouse-Henry
-Este es un repositorio del módulo 2 de Henry
+prueba de cómo crear un repositorio y clonarlo desde github desde mi computadora
